@@ -74,12 +74,11 @@ Especialista no ecossistema **VTEX** (IO, CMS Legacy, Store Framework, FastStore
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelCM10&show_icons=true&theme=react&hide_border=true&bg_color=0A0A0A&title_color=00E5A0&icon_color=00E5A0&text_color=FFFFFF" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelCM10&layout=compact&theme=react&hide_border=true&bg_color=0A0A0A&title_color=00E5A0&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/EmmanuelCM10/EmmanuelCM10/main/github-metrics.svg" alt="GitHub Metrics" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelCM10&theme=react&hide_border=true&background=0A0A0A&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=EmmanuelCM10&theme=react&hide_border=true&background=0A0A0A&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0" alt="GitHub Streak" />
 
 </div>
 
