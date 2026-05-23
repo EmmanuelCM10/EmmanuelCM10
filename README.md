@@ -94,6 +94,16 @@ Especialista no ecossistema **VTEX** (IO, CMS Legacy, Store Framework, FastStore
 
 ---
 
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/EmmanuelCM10/EmmanuelCM10/output/github-snake-dark.svg" alt="Snake animation das contribuições" />
+
+</div>
+
+---
+
 ## 💼 Experiência
 
 | Período | Empresa | Cargo |
@@ -102,6 +112,19 @@ Especialista no ecossistema **VTEX** (IO, CMS Legacy, Store Framework, FastStore
 | Abr 2024 – Abr 2025 | Rede D'Or São Luiz | Desenvolvedor Front-End Pleno |
 | Abr 2022 – Mar 2024 | Maeztra | Desenvolvedor Front-End Júnior |
 | Out 2021 – Mar 2022 | Maeztra | Estagiário Front-End |
+
+---
+
+## 🎓 Formação & Certificações
+
+**🏅 Certificações VTEX**
+- [IO Developer VTEX](https://drive.google.com/file/d/1v4PQyzymBihj580LSrwQG9arLeenXCbT/view) — Certificação Oficial VTEX · Jan/2022
+- [Implementation Expert VTEX](https://drive.google.com/file/d/1v4PQyzymBihj580LSrwQG9arLeenXCbT/view) — Certificação Oficial VTEX · Jan/2022
+
+**🎓 Formação Acadêmica**
+- [Análise e Desenvolvimento de Sistemas](https://drive.google.com/file/d/1076PGiOLFq_AGB_4HmZwOgQ6LqgqDG4P/view) — Universidade Cruzeiro do Sul
+- [Pós-Graduação — Desenvolvimento Web Full Stack](https://drive.google.com/file/d/1xjdtLhNY00tWBBKszmHiT1LM8iV5Gg0G/view) — Anhanguera
+- [Pós-Graduação — Aplicações Mobile](https://drive.google.com/file/d/1XC2vqQaBcbdfxkGV_3TqRGTsuUMSyQ0E/view) — Anhanguera
 
 ---
 
