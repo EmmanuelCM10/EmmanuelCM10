@@ -22,8 +22,13 @@ jobs:
           filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: no
+          repositories_affiliations: owner
           config_timezone: America/Sao_Paulo
           config_order: base.header, base.activity, base.community, base.repositories, languages
+          # Privacidade: só renderiza atividade de repos públicos, independente do escopo do METRICS_TOKEN
+          plugin_activity: yes
+          plugin_activity_visibility: public
           # Linguagens mais usadas
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
